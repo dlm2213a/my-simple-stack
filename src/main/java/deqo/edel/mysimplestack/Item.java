@@ -12,6 +12,7 @@ public class Item {
     }
 
     // Commentaire
+    // New commentaire
     public void setEntier(int entier) {
         this.entier = entier;
     }
