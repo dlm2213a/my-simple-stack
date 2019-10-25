@@ -31,4 +31,6 @@ public class StackBis implements SimpleStack {
     public Item pop() throws EmptyStackException {
         return stack.pop();
     }
+
+    // Commentaire
 }

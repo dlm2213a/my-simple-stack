@@ -11,6 +11,7 @@ public class Item {
         return this.entier;
     }
 
+    // Commentaire
     public void setEntier(int entier) {
         this.entier = entier;
     }
